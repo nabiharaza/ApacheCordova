@@ -1,0 +1,20 @@
+The file is zipped. Please feel free to download it and fiddle with the code
+
+Cordova Plugins Used:
+  1. Camera.
+  2. Accerloremter
+  3. Device Motion Sensor
+  4. Email Client
+  5. Battery
+  
+  
+  
+The app takes a picture on shake and opens the email client for it to be sent. It also changes the colour of the background of the web/mobile app. Battery Plugin is also integrated. 
+  
+The app is made in Webstorm but if you are using Visual Studio you might need to change a slight code here and there. You can google that easily. Not major difference just slight.
+  
+  Ill also post the same code that should run is Visual Studio too.
+  
+  Till then Happy Apache Cordova-ing!
+  
+  
